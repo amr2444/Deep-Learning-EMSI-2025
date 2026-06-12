@@ -3,7 +3,7 @@
 **Etudiant :** EL BELLOAUI Amr  
 **Filiere :** Data Science et Intelligence Artificielle — 4eme annee cycle ingenieur  
 **Module :** Deep Learning  
-**Annee universitaire :** 2025-2026  
+**Annee universitaire :** 2025-2026
 
 ---
 
@@ -24,22 +24,23 @@ L'objectif global est de montrer comment le deep learning adapte ses architectur
 ## Structure du repository
 
 ```
-deep-learning-project/
+Deep-Learning-EMSI-2025/
 │
-├── README.md                          # Ce fichier
+├── README.md                                         # Ce fichier
 │
-├── notebooks/
-│   ├── Partie1_MLP.ipynb              # MLP PyTorch — Breast Cancer Wisconsin
-│   ├── Partie2_CNN.ipynb              # CNN LeNet — MNIST
-│   └── Partie3_RNN_Seq2Seq.ipynb     # RNN, LSTM, GRU, Seq2Seq — fra-eng
+├── Partie1_MLP.ipynb                                 # MLP PyTorch — Breast Cancer Wisconsin
+├── Partie2_CNN.ipynb                                 # CNN LeNet — MNIST
+├── Partie3_RNN_Seq2Seq.ipynb                        # RNN, LSTM, GRU, Seq2Seq — fra-eng
 │
-├── rapports/
-│   ├── Rapport_Partie1_MLP_PyTorch.docx
-│   ├── Rapport_Partie2_CNN_EL_BELLOAUI_Amr.docx
-│   └── Rapport_Partie3_RNN_Seq2Seq_EL_BELLOAUI_Amr.docx
+├── Rapport_Partie1_MLP_PyTorch.docx                 # Rapport scientifique Partie I
+├── Rapport_Partie2_CNN_EL_BELLOAUI_Amr.docx        # Rapport scientifique Partie II
+├── Rapport_Partie3_RNN_Seq2Seq_EL_BELLOAUI_Amr.docx # Rapport scientifique Partie III
 │
-└── data/
-    └── fra.txt                        # Corpus de paires anglais-francais (Tatoeba)
+├── fra.txt                                           # Corpus paires anglais-francais (Tatoeba)
+│
+├── data/                                             # Dossier reserve aux donnees supplementaires
+├── notebooks/                                        # Dossier reserve aux versions alternatives
+└── rapports/                                         # Dossier reserve aux versions alternatives
 ```
 
 ---
@@ -75,7 +76,7 @@ deep-learning-project/
 ---
 
 ### Partie3_RNN_Seq2Seq.ipynb
-**Dataset :** Corpus de paires anglais-francais (fra-eng, Tatoeba)  
+**Dataset :** Corpus de paires anglais-francais (fra-eng, fichier fra.txt)  
 **Objectifs couverts :**
 - Modele de langage : factorisation par la regle de chaine, perplexite
 - Implementation et comparaison RNN / LSTM / GRU
@@ -85,30 +86,7 @@ deep-learning-project/
 - Decodage glouton vs beam search (k=3)
 - Evaluation par score BLEU et perplexite
 
-**Resultats :** Seq2Seq PPL train 190→23, PPL val 179→38 en 15 epoques
-
----
-
-## Technologies utilisees
-
-| Outil | Version |
-|-------|---------|
-| Python | 3.10+ |
-| PyTorch | 2.x |
-| torchvision | 0.x |
-| scikit-learn | 1.x |
-| NumPy | 1.x |
-| Matplotlib | 3.x |
-| Seaborn | 0.x |
-
----
-
-## Comment executer les notebooks
-
-1. Ouvrir dans **Google Colab** (recommande) ou Jupyter Notebook local
-2. Executer les cellules dans l'ordre de haut en bas (`Runtime → Run all`)
-3. Les datasets sont telecharges automatiquement (MNIST via torchvision, Breast Cancer via scikit-learn)
-4. GPU recommande pour la Partie III (Seq2Seq)
+**Resultats :** Seq2Seq PPL train 190 → 23 | PPL val 179 → 38 en 15 epoques
 
 ---
 
@@ -123,10 +101,35 @@ deep-learning-project/
 
 ---
 
+## Technologies utilisees
+
+| Outil | Usage |
+|-------|-------|
+| Python 3.10+ | Langage principal |
+| PyTorch 2.x | Implementation des modeles |
+| torchvision | Dataset MNIST |
+| scikit-learn | Dataset Breast Cancer, metriques |
+| NumPy | Implementations manuelles |
+| Matplotlib / Seaborn | Visualisations |
+
+---
+
+## Comment executer les notebooks
+
+1. Ouvrir dans **Google Colab** (recommande) ou Jupyter Notebook local
+2. Executer les cellules dans l'ordre de haut en bas (`Runtime → Run all`)
+3. Les datasets sont telecharges automatiquement :
+   - MNIST via `torchvision.datasets`
+   - Breast Cancer via `sklearn.datasets`
+   - Corpus fra-eng : le fichier `fra.txt` est fourni dans ce repository
+4. GPU recommande pour la Partie III (Seq2Seq)
+
+---
+
 ## References
 
 - LeCun et al. (1998). *Gradient-Based Learning Applied to Document Recognition*
 - Hochreiter & Schmidhuber (1997). *Long Short-Term Memory*
 - Cho et al. (2014). *Learning Phrase Representations using RNN Encoder-Decoder*
 - Sutskever et al. (2014). *Sequence to Sequence Learning with Neural Networks*
-- D2L.ai — *Dive into Deep Learning* (Zhang et al.)
+- Zhang et al. *Dive into Deep Learning* — d2l.ai
