@@ -1,0 +1,294 @@
+i am happy	je suis heureux
+yes i am happy	oui je suis heureux
+i am happy .	je suis heureux .
+she is beautiful	elle est belle
+yes she is beautiful	oui elle est belle
+she is beautiful .	elle est belle .
+we are students	nous sommes etudiants
+yes we are students	oui nous sommes etudiants
+we are students .	nous sommes etudiants .
+he likes music	il aime la musique
+yes he likes music	oui il aime la musique
+he likes music .	il aime la musique .
+i love you	je t aime
+yes i love you	oui je t aime
+i love you .	je t aime .
+good morning	bonjour
+yes good morning	oui bonjour
+good morning .	bonjour .
+thank you	merci
+yes thank you	oui merci
+thank you .	merci .
+how are you	comment allez vous
+yes how are you	oui comment allez vous
+how are you .	comment allez vous .
+i am tired	je suis fatigue
+yes i am tired	oui je suis fatigue
+i am tired .	je suis fatigue .
+the cat is small	le chat est petit
+yes the cat is small	oui le chat est petit
+the cat is small .	le chat est petit .
+she reads books	elle lit des livres
+yes she reads books	oui elle lit des livres
+she reads books .	elle lit des livres .
+i go to school	je vais a l ecole
+yes i go to school	oui je vais a l ecole
+i go to school .	je vais a l ecole .
+he is a doctor	il est medecin
+yes he is a doctor	oui il est medecin
+he is a doctor .	il est medecin .
+we like paris	nous aimons paris
+yes we like paris	oui nous aimons paris
+we like paris .	nous aimons paris .
+i speak french	je parle francais
+yes i speak french	oui je parle francais
+i speak french .	je parle francais .
+the dog runs fast	le chien court vite
+yes the dog runs fast	oui le chien court vite
+the dog runs fast .	le chien court vite .
+it is cold today	il fait froid aujourd hui
+yes it is cold today	oui il fait froid aujourd hui
+it is cold today .	il fait froid aujourd hui .
+i eat bread	je mange du pain
+yes i eat bread	oui je mange du pain
+i eat bread .	je mange du pain .
+she sings well	elle chante bien
+yes she sings well	oui elle chante bien
+she sings well .	elle chante bien .
+he works hard	il travaille dur
+yes he works hard	oui il travaille dur
+he works hard .	il travaille dur .
+i am a student	je suis etudiant
+yes i am a student	oui je suis etudiant
+i am a student .	je suis etudiant .
+we play football	nous jouons au football
+yes we play football	oui nous jouons au football
+we play football .	nous jouons au football .
+the bird flies high	l oiseau vole haut
+yes the bird flies high	oui l oiseau vole haut
+the bird flies high .	l oiseau vole haut .
+i drink water	je bois de l eau
+yes i drink water	oui je bois de l eau
+i drink water .	je bois de l eau .
+she is my friend	elle est mon amie
+yes she is my friend	oui elle est mon amie
+she is my friend .	elle est mon amie .
+he drives a car	il conduit une voiture
+yes he drives a car	oui il conduit une voiture
+he drives a car .	il conduit une voiture .
+i like coffee	j aime le cafe
+yes i like coffee	oui j aime le cafe
+i like coffee .	j aime le cafe .
+we are happy	nous sommes heureux
+yes we are happy	oui nous sommes heureux
+we are happy .	nous sommes heureux .
+the sky is blue	le ciel est bleu
+yes the sky is blue	oui le ciel est bleu
+the sky is blue .	le ciel est bleu .
+i study every day	j etudie chaque jour
+yes i study every day	oui j etudie chaque jour
+i study every day .	j etudie chaque jour .
+she has a dog	elle a un chien
+yes she has a dog	oui elle a un chien
+she has a dog .	elle a un chien .
+he plays guitar	il joue de la guitare
+yes he plays guitar	oui il joue de la guitare
+he plays guitar .	il joue de la guitare .
+i am not sad	je ne suis pas triste
+yes i am not sad	oui je ne suis pas triste
+i am not sad .	je ne suis pas triste .
+we go home	nous rentrons a la maison
+yes we go home	oui nous rentrons a la maison
+we go home .	nous rentrons a la maison .
+the food is good	la nourriture est bonne
+yes the food is good	oui la nourriture est bonne
+the food is good .	la nourriture est bonne .
+i write a letter	j ecris une lettre
+yes i write a letter	oui j ecris une lettre
+i write a letter .	j ecris une lettre .
+she is very kind	elle est tres gentille
+yes she is very kind	oui elle est tres gentille
+she is very kind .	elle est tres gentille .
+he reads the news	il lit les nouvelles
+yes he reads the news	oui il lit les nouvelles
+he reads the news .	il lit les nouvelles .
+i run every morning	je cours chaque matin
+yes i run every morning	oui je cours chaque matin
+i run every morning .	je cours chaque matin .
+we speak english	nous parlons anglais
+yes we speak english	oui nous parlons anglais
+we speak english .	nous parlons anglais .
+the house is big	la maison est grande
+yes the house is big	oui la maison est grande
+the house is big .	la maison est grande .
+i watch television	je regarde la television
+yes i watch television	oui je regarde la television
+i watch television .	je regarde la television .
+she cooks dinner	elle prepare le diner
+yes she cooks dinner	oui elle prepare le diner
+she cooks dinner .	elle prepare le diner .
+he is very smart	il est tres intelligent
+yes he is very smart	oui il est tres intelligent
+he is very smart .	il est tres intelligent .
+i need help	j ai besoin d aide
+yes i need help	oui j ai besoin d aide
+i need help .	j ai besoin d aide .
+we visit france	nous visitons la france
+yes we visit france	oui nous visitons la france
+we visit france .	nous visitons la france .
+the sun is bright	le soleil est brillant
+yes the sun is bright	oui le soleil est brillant
+the sun is bright .	le soleil est brillant .
+i have a cat	j ai un chat
+yes i have a cat	oui j ai un chat
+i have a cat .	j ai un chat .
+she wears a dress	elle porte une robe
+yes she wears a dress	oui elle porte une robe
+she wears a dress .	elle porte une robe .
+he goes to work	il va au travail
+yes he goes to work	oui il va au travail
+he goes to work .	il va au travail .
+i am very well	je vais tres bien
+yes i am very well	oui je vais tres bien
+i am very well .	je vais tres bien .
+we eat together	nous mangeons ensemble
+yes we eat together	oui nous mangeons ensemble
+we eat together .	nous mangeons ensemble .
+the book is interesting	le livre est interessant
+yes the book is interesting	oui le livre est interessant
+the book is interesting .	le livre est interessant .
+i play piano	je joue du piano
+yes i play piano	oui je joue du piano
+i play piano .	je joue du piano .
+she likes flowers	elle aime les fleurs
+yes she likes flowers	oui elle aime les fleurs
+she likes flowers .	elle aime les fleurs .
+he swims every day	il nage chaque jour
+yes he swims every day	oui il nage chaque jour
+he swims every day .	il nage chaque jour .
+i am a teacher	je suis professeur
+yes i am a teacher	oui je suis professeur
+i am a teacher .	je suis professeur .
+we travel often	nous voyageons souvent
+yes we travel often	oui nous voyageons souvent
+we travel often .	nous voyageons souvent .
+the water is cold	l eau est froide
+yes the water is cold	oui l eau est froide
+the water is cold .	l eau est froide .
+i open the door	j ouvre la porte
+yes i open the door	oui j ouvre la porte
+i open the door .	j ouvre la porte .
+she is at home	elle est a la maison
+yes she is at home	oui elle est a la maison
+she is at home .	elle est a la maison .
+he eats an apple	il mange une pomme
+yes he eats an apple	oui il mange une pomme
+he eats an apple .	il mange une pomme .
+i am not hungry	je n ai pas faim
+yes i am not hungry	oui je n ai pas faim
+i am not hungry .	je n ai pas faim .
+we like summer	nous aimons l ete
+yes we like summer	oui nous aimons l ete
+we like summer .	nous aimons l ete .
+the child is happy	l enfant est heureux
+yes the child is happy	oui l enfant est heureux
+the child is happy .	l enfant est heureux .
+i clean my room	je nettoie ma chambre
+yes i clean my room	oui je nettoie ma chambre
+i clean my room .	je nettoie ma chambre .
+she has blue eyes	elle a les yeux bleus
+yes she has blue eyes	oui elle a les yeux bleus
+she has blue eyes .	elle a les yeux bleus .
+he is my brother	il est mon frere
+yes he is my brother	oui il est mon frere
+he is my brother .	il est mon frere .
+i wake up early	je me reveille tot
+yes i wake up early	oui je me reveille tot
+i wake up early .	je me reveille tot .
+we go to the park	nous allons au parc
+yes we go to the park	oui nous allons au parc
+we go to the park .	nous allons au parc .
+the movie is long	le film est long
+yes the movie is long	oui le film est long
+the movie is long .	le film est long .
+i buy a newspaper	j achete un journal
+yes i buy a newspaper	oui j achete un journal
+i buy a newspaper .	j achete un journal .
+she plays tennis	elle joue au tennis
+yes she plays tennis	oui elle joue au tennis
+she plays tennis .	elle joue au tennis .
+he likes to cook	il aime cuisiner
+yes he likes to cook	oui il aime cuisiner
+he likes to cook .	il aime cuisiner .
+i am twenty years old	j ai vingt ans
+yes i am twenty years old	oui j ai vingt ans
+i am twenty years old .	j ai vingt ans .
+we arrive tomorrow	nous arrivons demain
+yes we arrive tomorrow	oui nous arrivons demain
+we arrive tomorrow .	nous arrivons demain .
+the train is late	le train est en retard
+yes the train is late	oui le train est en retard
+the train is late .	le train est en retard .
+i speak a little	je parle un peu
+yes i speak a little	oui je parle un peu
+i speak a little .	je parle un peu .
+she is very busy	elle est tres occupee
+yes she is very busy	oui elle est tres occupee
+she is very busy .	elle est tres occupee .
+he goes to bed late	il se couche tard
+yes he goes to bed late	oui il se couche tard
+he goes to bed late .	il se couche tard .
+i like to read	j aime lire
+yes i like to read	oui j aime lire
+i like to read .	j aime lire .
+we have two dogs	nous avons deux chiens
+yes we have two dogs	oui nous avons deux chiens
+we have two dogs .	nous avons deux chiens .
+the weather is nice	le temps est beau
+yes the weather is nice	oui le temps est beau
+the weather is nice .	le temps est beau .
+i work in an office	je travaille dans un bureau
+yes i work in an office	oui je travaille dans un bureau
+i work in an office .	je travaille dans un bureau .
+she studies medicine	elle etudie la medecine
+yes she studies medicine	oui elle etudie la medecine
+she studies medicine .	elle etudie la medecine .
+he is very tall	il est tres grand
+yes he is very tall	oui il est tres grand
+he is very tall .	il est tres grand .
+i am not afraid	je n ai pas peur
+yes i am not afraid	oui je n ai pas peur
+i am not afraid .	je n ai pas peur .
+we celebrate today	nous fêtons aujourd hui
+yes we celebrate today	oui nous fêtons aujourd hui
+we celebrate today .	nous fêtons aujourd hui .
+the garden is lovely	le jardin est joli
+yes the garden is lovely	oui le jardin est joli
+the garden is lovely .	le jardin est joli .
+i take the bus	je prends le bus
+yes i take the bus	oui je prends le bus
+i take the bus .	je prends le bus .
+she visits her family	elle rend visite a sa famille
+yes she visits her family	oui elle rend visite a sa famille
+she visits her family .	elle rend visite a sa famille .
+he is a good friend	il est un bon ami
+yes he is a good friend	oui il est un bon ami
+he is a good friend .	il est un bon ami .
+i finish my work	je termine mon travail
+yes i finish my work	oui je termine mon travail
+i finish my work .	je termine mon travail .
+we learn together	nous apprenons ensemble
+yes we learn together	oui nous apprenons ensemble
+we learn together .	nous apprenons ensemble .
+the night is dark	la nuit est sombre
+yes the night is dark	oui la nuit est sombre
+the night is dark .	la nuit est sombre .
+i feel much better	je me sens beaucoup mieux
+yes i feel much better	oui je me sens beaucoup mieux
+i feel much better .	je me sens beaucoup mieux .
+she speaks three languages	elle parle trois langues
+yes she speaks three languages	oui elle parle trois langues
+she speaks three languages .	elle parle trois langues .
+he listens to music	il ecoute de la musique
+yes he listens to music	oui il ecoute de la musique
+he listens to music .	il ecoute de la musique .
